@@ -1,6 +1,6 @@
 # Introduction to Programming with JavaScript
 
-### Demo at: javascript-intro-hakan.netlify.app
+### Demo: [Netlify](javascript-intro-hakan.netlify.app)
 
 ### Description
 Practice of programming basics such as variables, for, while, do-while loops, JavaScript built-in array and string methods, etc. 
